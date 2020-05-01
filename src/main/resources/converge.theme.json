@@ -1,0 +1,13 @@
+{
+  "name": "converge-theme",
+  "dark": true,
+  "author": "João Vanzuita",
+  "editorScheme": "/converge.xml",
+  "colors": {
+    "basicBackground": "#f9f9f9",
+    "green": "#f9f9f9"
+  },
+  "ui": {
+
+  }
+}

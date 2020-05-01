@@ -1,0 +1,20 @@
+<idea-plugin>
+    <id>com.joaovanzuita.converge-theme</id>
+    <name>Converge Theme</name>
+    <vendor email="joaovanzuita@me.com" url="https://joaovanzuita.com"></vendor>
+
+    <description><![CDATA[Great colors, for great developers.]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="8e67971e-d77e-434f-8d80-e0c36c012213" path="/converge.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
